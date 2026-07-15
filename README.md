@@ -79,5 +79,5 @@ pytest
 Contributions are welcome. Please open an issue to discuss major changes and send a pull request with a clear description of your changes.
 
 ## License
-Add the appropriate license for your project (e.g., MIT). If you don't have one yet, consider adding a LICENSE file.
+This project is licensed under the MIT License.
 
