@@ -81,6 +81,3 @@ Contributions are welcome. Please open an issue to discuss major changes and sen
 ## License
 Add the appropriate license for your project (e.g., MIT). If you don't have one yet, consider adding a LICENSE file.
 
----
-
-Note: README ko Hindi mein chahiye tha toh bataiye; main Hindi mein bhi likh sakta hoon. 😊
